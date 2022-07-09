@@ -1,0 +1,5 @@
+##Ignorar:
+
+**/.ipynb_checkpoints
+tracks.csv
+.DS_Store
